@@ -1,11 +1,11 @@
 # Site settings
 author: Andre Cunningham
-title: 
+title: Andre
 header-img: img/home-bg.png
 email: andrecunningham62@gmail.com
 copyright_name: Andre Cunningham
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  andrecunningham
